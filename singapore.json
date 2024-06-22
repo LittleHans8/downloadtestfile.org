@@ -1,0 +1,52 @@
+{
+  "links": [
+    {
+      "link": "http://sgp.download.datapacket.com/100mb.bin",
+      "size": "100MB",
+      "source":"Datapacket/CDN77",
+      "global_cdn":false
+    },
+    {
+      "link": "http://sgp.download.datapacket.com/1000mb.bin",
+      "size": "1GB",
+      "source":"Datapacket/CDN77",
+      "global_cdn":false
+    },
+    {
+      "link": "http://sgp.download.datapacket.com/10000mb.bin",
+      "size": "10GB",
+      "source":"Datapacket/CDN77",
+      "global_cdn":false
+    },
+    {
+      "link": "https://sgp.proof.ovh.net/files/100Mb.dat",
+      "size": "100MB",
+      "source":"OVH",
+      "global_cdn":false
+    },
+    {
+      "link": "https://sgp.proof.ovh.net/files/1Gb.dat",
+      "size": "1GB",
+      "source":"OVH",
+      "global_cdn":false
+    },
+    {
+      "link": "https://sgp.proof.ovh.net/files/10Gb.dat",
+      "size": "10GB",
+      "source":"OVH",
+      "global_cdn":false
+    },
+    {
+      "link": "https://sgp-ping.vultr.com/vultr.com.100MB.bin",
+      "size": "100MB",
+      "source": "Vultr",
+      "global_cdn": false
+    },
+    {
+      "link": "https://sgp-ping.vultr.com/vultr.com.1000MB.bin",
+      "size": "1GB",
+      "source": "Vultr",
+      "global_cdn": false
+    }
+  ]
+}

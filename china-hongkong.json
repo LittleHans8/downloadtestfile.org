@@ -1,0 +1,22 @@
+{
+  "links": [
+    {
+      "link": "http://hkg.download.datapacket.com/100mb.bin",
+      "size": "100MB",
+      "source":"Datapacket/CDN77",
+      "global_cdn":false
+    },
+    {
+      "link": "http://hkg.download.datapacket.com/1000mb.bin",
+      "size": "1GB",
+      "source":"Datapacket/CDN77",
+      "global_cdn":false
+    },
+    {
+      "link": "http://hkg.download.datapacket.com/10000mb.bin",
+      "size": "10GB",
+      "source":"Datapacket/CDN77",
+      "global_cdn":false
+    }
+  ]
+}

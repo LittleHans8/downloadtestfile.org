@@ -1,0 +1,64 @@
+{
+  "links": [
+    {
+      "link": "https://dldir1.qq.com/qqfile/qq/PCQQ9.7.17/QQ9.7.17.29225.exe",
+      "size": "200MB",
+      "source":"Tencent Cloud CDN (腾讯云 CDN)",
+      "global_cdn":false
+    },
+    {
+      "link": "https://wirelesscdn-download.xuexi.cn/publish/xuexi_android/latest/xuexi_android_10002068.apk",
+      "size": "300MB",
+      "source":"Alibaba Cloud CDN (阿里云 CDN)",
+      "global_cdn":false
+    },
+    {
+      "link": "http://speedtest.zju.edu.cn/1000M",
+      "size": "1GB",
+      "source":"Zhejiang University (浙江大学)",
+      "global_cdn":false
+    },
+    {
+      "link": "http://vipspeedtest8.wuhan.net.cn:8080/download?size=1073741824",
+      "size": "1GB",
+      "source":"CDN",
+      "global_cdn":false
+    },
+    {
+      "link": "http://vipspeedtest8.wuhan.net.cn:8080/download?size=1073741824",
+      "size": "200MB",
+      "source":"China TELECOM(中国电信)",
+      "global_cdn":false
+    },
+    {
+      "link": "https://dlied4.myapp.com/myapp/1104466820/cos.release-40109/10040714_com.tencent.tmgp.sgame_a2480356_8.2.1.9_F0BvnI.apk",
+      "size": "2GB",
+      "source":"CDN",
+      "global_cdn":false
+    },
+    {
+      "link": "https://ml-dlied4.bytes.tcdnos.com/myapp/1104466820/cos.release-40109/10040714_com.tencent.tmgp.sgame_a2480356_8.2.1.9_F0BvnI.apk",
+      "size": "2GB",
+      "source":"China unicom(中国联通)",
+      "global_cdn":false
+    },
+    {
+      "link": "https://875e1151af8aa9e3b793f51f6049996d.dlied1.cdntips.net/dlied4.myapp.com/myapp/1104466820/cos.release-40109/10040714_com.tencent.tmgp.sgame_a2480356_8.2.1.9_F0BvnI.apk",
+      "size": "2GB",
+      "source":"China mobile(中国移动)",
+      "global_cdn":false
+    },
+    {
+      "link": "https://dlied4.csy.tcdnos.com/myapp/1104466820/cos.release-40109/10040714_com.tencent.tmgp.sgame_a2480356_8.2.1.9_F0BvnI.apk",
+      "size": "2GB",
+      "source":"China TELECOM(中国电信)",
+      "global_cdn":false
+    },
+    {
+      "link": "http://updates-http.cdn-apple.com/2019WinterFCS/fullrestores/041-39257/32129B6C-292C-11E9-9E72-4511412B0A59/iPhone_4.7_12.1.4_16D57_Restore.ipsw",
+      "size": "3GB",
+      "source":"Apple",
+      "global_cdn":true
+    }
+  ]
+}
